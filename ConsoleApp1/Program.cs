@@ -10,10 +10,6 @@
             Console.WriteLine("a = " + a);
             Console.WriteLine("b = " + b);
 
-            int temp = a;
-            a = b;
-            b = temp;
-
             Console.WriteLine("PERMUTATION");
             Console.WriteLine("b = " + b);
             Console.WriteLine("a = " + a);
